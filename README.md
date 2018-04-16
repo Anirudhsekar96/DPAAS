@@ -19,6 +19,8 @@ The algorithm is trained on a custom dataset made to ensure that face detection 
 
 The model was first trained on LFW dataset, and then transfer learning was applied to ensure that the model fits the custom dataset.
 
+To train the model, create a folder named "i_data" inside the the "KERAS_FACE_RECOGNTION" folder. Inside the folder, segregate each class by indivdual subfolders and place images corresponding to the particular class inside the subfolder. Don't forget to change the  number of Output units to match the number of classes inside the "face_recog.py" file. 
+
 _____________________________________________________________________________________________________________________________
 
 
