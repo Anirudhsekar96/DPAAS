@@ -96,4 +96,17 @@ The metric for accuracy of face detection would be the overlap of bounding boxes
 
 _____________________________________________________________________________________________________________________________
 
+# Requirments
+
+1. Keras: version 2.x
+2. Tensorflow-GPU: version 1.4
+3. Numpy
+4. Pandas
+5. Scipy
+6. OpenCV
+7. CUDA compute capable device
+8. Anaconda: Reccomended
+
+_____________________________________________________________________________________________________________________________
+
 
