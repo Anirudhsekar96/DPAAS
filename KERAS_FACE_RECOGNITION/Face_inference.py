@@ -12,8 +12,8 @@ k.set_image_data_format('channels_first')
 
 
 #path_test = './data_for_validation/srk_val/*'
-#path_test = '../tensorflow-face-detection/media/*.png'
-path_test = '/media/anirudh/Data/Code/Dpaas/tensorflow-face-detection/Full_Picture /Full_pic_1/*.png'
+path_test = '../tensorflow-face-detection/media/*.png'
+#path_test = '/media/anirudh/Data/Code/Dpaas/tensorflow-face-detection/Full_Picture /Full_pic_1/*.png'
 images_test_path = glob(path_test)
 #print(images_test_path)
 
