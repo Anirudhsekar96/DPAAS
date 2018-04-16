@@ -1,6 +1,10 @@
 # DPAAS
 Deep Learning based Automated Attendance System
 
+URL for weights: https://drive.google.com/open?id=1I5CD7hrBpP8CPsEymiTj6cdhZnllqKfu
+
+Kindly place the weights inside the KERAS_FACE_RECOGNITION folder. The weights are over 1.5 GBs,so please use a reliable internet connection.
+
 ### Face Detection
 #### Algorithm used: Single Shot Multibox Detector
 
